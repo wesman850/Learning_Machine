@@ -1,2 +1,2 @@
-# Learning_Machine
+# Learning Machine
 Machine Learning Practice
